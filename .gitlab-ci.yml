@@ -1,0 +1,16 @@
+stages:
+  - test
+
+variables:
+  DOCKER_DRIVER: overlay2
+
+services:
+  - docker:dind
+
+test_job:
+  stage: test
+  image: maven:3.9.9-amazoncorretto-23-alpine
+  script:
+    - echo "🧪 Ejecutando pruebas..."
+    - mvn clean test
+    - echo "✅ ¡Todas las pruebas pasaron!"
