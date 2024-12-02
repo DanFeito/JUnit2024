@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
+
+## [Unreleased]
+- Initial setup of the Spring Boot project using Maven.
+- Added `README.md` with project details and setup instructions.
+- Defined base project structure for `src/main/java` and `src/test/java`.
+- Configured `pom.xml` for dependency management.
+
+## [1.0.0] - 2024-12-02
+### Added
+- Initialized a blank Spring Boot application.
+- Configured Maven for dependency and build management.
+- Setup project structure for future JUnit exercises.
+- Added initial configuration files (`application.properties`, etc.).
+
+---
