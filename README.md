@@ -1,5 +1,9 @@
 # JUnit 2024 Course Repository
 
+<p align="center">
+  <img src="junit5-Logo.webp" alt="JUnit Logo" width="200">
+</p>
+
 Welcome to the **JUnit 2024 Course Repository**! This project serves as the foundation for learning and practicing JUnit testing concepts. It is a **Spring Boot** application built using **Maven** to demonstrate unit testing best practices.
 
 ## Project Overview
