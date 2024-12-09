@@ -76,7 +76,7 @@ This repository is maintained by **José Córdoba** as part of the JUnit 2024 co
 
 1. Jose M Cordoba
 
-
+21. Daniel Feito
 
 ---
 
