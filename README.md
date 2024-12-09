@@ -72,7 +72,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 This repository is maintained by **José Córdoba** as part of the JUnit 2024 course.
 
-## Contributers
+## Contributors
 
 
 
